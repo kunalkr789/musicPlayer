@@ -1,2 +1,1 @@
-Static Music Player
-A simple web page using html and css.
+A simple web based music player using html and css.
